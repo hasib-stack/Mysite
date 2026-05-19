@@ -91,7 +91,7 @@ document.getElementById("mainBox").innerHTML = `
 
 <h1>Thanks 😍</h1>
 
-<p style="font-size:25px;">I Love You Too 💖</p>
+<p style="font-size:25px;">thanks  💖</p>
 
 `;
 
