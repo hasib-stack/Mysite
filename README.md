@@ -73,13 +73,13 @@ function openDashboard(){
 
 document.getElementById("mainBox").innerHTML = `
 
-<h1>I Love ❤️</h1>
+<h1>Do you play Minecraft</h1>
 
 <p style="font-size:22px;">Choose One 👇</p>
 
-<button class="love" onclick="love()">I Love You Too 💖</button>
+<button class="love" onclick="love()">Yes💖</button>
 
-<button class="hate" onclick="hate()">I Hate You 💔</button>
+<button class="hate" onclick="hate()">No💔</button>
 
 `;
 
@@ -105,9 +105,9 @@ document.getElementById("mainBox").innerHTML = `
 
 <p>Choose Again 👇</p>
 
-<button class="love" onclick="love()">I Love You Too 💖</button>
+<button class="love" onclick="love()">Yes 💖</button>
 
-<button class="hate" onclick="hate()">I Hate You 💔</button>
+<button class="hate" onclick="hate()">No💔</button>
 
 `;
 
